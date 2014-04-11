@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.oneskyapp.eclipse.feature_1.0.0.qualifier.jar" id="com.oneskyapp.eclipse.feature" version="1.0.0.qualifier">
+      <category name="onesky.sync"/>
+   </feature>
+   <category-def name="onesky.sync" label="OneSky"/>
+</site>
